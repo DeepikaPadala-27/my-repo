@@ -1,0 +1,5 @@
+Name:Deepika padala
+Course:BSc computer science
+I learned what is github and how to use github and what the purpose of github used. 
+In the github we can create files and upload files in that and we can see and read comments
+and also commit the changes. 
